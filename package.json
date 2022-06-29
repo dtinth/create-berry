@@ -4,6 +4,9 @@
   "description": "Adds Yarn v3 to your existing project",
   "version": "0.0.0",
   "main": "index.js",
+  "files": [
+    "./create-berry.mjs"
+  ],
   "bin": {
     "create-berry": "./create-berry.mjs"
   },

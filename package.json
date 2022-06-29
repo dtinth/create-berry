@@ -1,4 +1,23 @@
 {
   "name": "create-berry",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "description": "Adds Yarn v3 to your existing project",
+  "version": "0.0.0-0",
+  "main": "index.js",
+  "bin": {
+    "create-berry": "./create-berry.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtinth/create-berry.git"
+  },
+  "author": "Thai Pangsakulyanont <dtinth@spacet.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtinth/create-berry/issues"
+  },
+  "homepage": "https://github.com/dtinth/create-berry#readme"
 }

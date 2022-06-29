@@ -2,7 +2,7 @@
   "name": "create-berry",
   "packageManager": "yarn@3.2.1",
   "description": "Adds Yarn v3 to your existing project",
-  "version": "0.0.0-0",
+  "version": "0.0.0",
   "main": "index.js",
   "bin": {
     "create-berry": "./create-berry.mjs"
